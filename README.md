@@ -45,7 +45,7 @@ _**Software engineeting**_ is an engineering discpline that focuses on using a s
 
 - Risk assessment and management planning.
 
-**_Requirements Analysis_**
+## **_Requirements Analysis_**
 
 **Objective**:
 -  Gather and analyze the business and technical requirements.
@@ -68,7 +68,7 @@ _**Software engineeting**_ is an engineering discpline that focuses on using a s
 - Database design and user interface design.
 - Defining system architecture, components, modules, and interfaces.
 
-**_Implementation (Coding)_**
+## **_Implementation (Coding)_**
 
 **Objective**: 
 
@@ -91,12 +91,12 @@ _**Software engineeting**_ is an engineering discpline that focuses on using a s
 - Identifying and fixing bugs.
 - Ensuring the software meets all requirements.
 
-**_Deployment_**
+## **_Deployment_**
 
-Objective:
+**Objective**:
 -  Release the software to production and make it available to users.
 
-Activities:
+**Activities**:
 
 - Deploying the software to the live environment.
 - Conducting final testing and user training.
